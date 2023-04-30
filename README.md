@@ -1,6 +1,6 @@
 # UTRCOV2
 
-This repo contains the code of CAMDA 2021 paper "Unraveling T cell responses for long term protection of SARS-CoV-2 infection".
+This repo contains the code for CAMDA 2021 paper "Unraveling T cell responses for long term protection of SARS-CoV-2 infection".
 
 ![](Workflow.jpg)
 
@@ -22,3 +22,7 @@ This repo contains the code of CAMDA 2021 paper "Unraveling T cell responses for
 	- 04_Functional_Annotation
 - Bulk Blood Sample
 	- Bulk_Data_Analysis
+
+## Citation
+
+Wu, D., Zhang, R., & Datta, S. (2022). Unraveling T cell responses for long term protection of SARS-CoV-2 infection. *Frontiers in Genetics*, 13:871164. https://doi.org/10.3389/fgene.2022.871164
